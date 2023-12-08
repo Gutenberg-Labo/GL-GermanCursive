@@ -1,4 +1,4 @@
-# GL-GermanCursive
+# GL-GermanCursive （ドイツ文字の筆記体）
 
 These fonts are free softwares.\
 Unlimited permission is granted to use, copy, and distribute it, with or without modification, either commercially and noncommercially.\
