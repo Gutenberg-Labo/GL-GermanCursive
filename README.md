@@ -9,6 +9,8 @@ THESE FONTS ARE PROVIDED "AS IS" WITHOUT WARRANTY.
 
 <br />
 
+<img src="https://github.com/Gutenberg-Labo/GL-GermanCursive/blob/main/documents/GL-GermanCursive.svg" width="95%" alt="GL-GermanCursive - Open Source Font" />
+
 Font of German blackletter handwriting.\
 We made this font as copperplate style Sütterlin and at first named it "GL-Suetterlin". However, it becomes unable to distinguish from Kurrent script, so we renamed it "GL-GermanCursive".\
 This font supports Adobe Latin 2 character set.
